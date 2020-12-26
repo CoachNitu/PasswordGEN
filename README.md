@@ -11,8 +11,8 @@ git clone https://github.com/Nitutec/PasswordGen.git
 
 cd PasswordGEN
 
-python3 PassGenerator
+python3 PassGenerator.py
 
 And you have it running
 
-After the password is generated the password will automaticall be copied ti clipboard
+After the password is generated the password will automaticall be copied to clipboard
