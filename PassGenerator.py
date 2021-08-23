@@ -73,7 +73,7 @@ def slowprint(s):
         time.sleep(3. / 100)
 
 
-slowprint("\t\t                                                   \033[93mBy :Nitiraj kulkarni")
+slowprint("\t\t                                                   \033[93mBy :Nitu")
 
 import random
 
@@ -94,4 +94,3 @@ os.system('')
 print("[!]Password Copied to Clipboard")
 pyperclip.copy(password)
 print('')
-print("For Donations: https://www.paypal.me/VasudeoKulkarni")
